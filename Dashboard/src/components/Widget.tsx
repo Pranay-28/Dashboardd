@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Widget as WidgetType } from '../types';
 import { X, PlusCircle, AlertCircle, BarChart, PieChart, Shield } from 'lucide-react';
 

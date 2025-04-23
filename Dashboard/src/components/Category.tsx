@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Category as CategoryType } from '../types';
 import Widget from './Widget';
 import AddWidgetButton from './AddWidgetButton';
