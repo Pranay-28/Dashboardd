@@ -23,8 +23,8 @@ Follow the steps below to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Pranay-28/Dashboardd.git
+   cd Dashboardd
 2. **Install Dependencies:**
    ```bash
    npm install
